@@ -1,0 +1,5 @@
+D:\Sreelakshmi\Niramai\Project Files\UpdateTest\UpdateFeature\published\TestApp.exe
+D:\Sreelakshmi\Niramai\Project Files\UpdateTest\UpdateFeature\published\TestApp.dll
+D:\Sreelakshmi\Niramai\Project Files\UpdateTest\UpdateFeature\published\TestApp.deps.json
+D:\Sreelakshmi\Niramai\Project Files\UpdateTest\UpdateFeature\published\TestApp.runtimeconfig.json
+D:\Sreelakshmi\Niramai\Project Files\UpdateTest\UpdateFeature\published\TestApp.pdb
